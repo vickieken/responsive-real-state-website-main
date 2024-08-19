@@ -230,6 +230,7 @@ body.dark-theme {
   column-gap: .25rem;
   font-weight: var(--font-medium);
   transition: .4s;
+  color: #fff;
 }
 
 .nav__logo i {
